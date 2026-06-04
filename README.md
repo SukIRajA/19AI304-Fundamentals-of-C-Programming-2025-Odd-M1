@@ -258,8 +258,15 @@ int main(){
     return 0;
 }
 ```
+
+
+
 # Output:
 <img width="625" height="237" alt="image" src="https://github.com/user-attachments/assets/44ce42d1-081a-4dad-9842-44b8cf7b4ddd" />
+
+
+
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
